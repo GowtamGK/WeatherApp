@@ -1,2 +1,1 @@
-//Assign the copied API key to the 'key' variable
-key = "";
+key = "4087498c0b879dee1ac73ad6ca4d3538";
